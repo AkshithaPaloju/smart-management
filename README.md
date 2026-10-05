@@ -19,8 +19,8 @@ Donated items often fail to reach the people or organizations who need them beca
 🎯 Generate a matching score
 🖥️ Simple and user-friendly Streamlit interface
 🛠️ Technologies Used
-Python
-Streamlit
-Pydantic
-Python-dotenv
-Requests
+       Python
+       Streamlit
+       Pydantic
+       Python-dotenv
+       Requests
